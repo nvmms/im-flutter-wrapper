@@ -23,6 +23,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace = "rongcloud.im.wrapper.plugin"
     compileSdkVersion 30
 
     compileOptions {
