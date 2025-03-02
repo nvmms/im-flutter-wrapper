@@ -23,7 +23,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace = "rongcloud.im.wrapper.plugin"
+    namespace = "cn.rongcloud.im.wrapper.flutter"
     compileSdkVersion 30
 
     compileOptions {
